@@ -141,17 +141,17 @@ characteristics.sort(function(a, b) {
 });
 
 var charSlogan = {
-  b0: "Humanity",
-  b1: "Fatherland",
-  c0: "Equality",
-  e0: "Ecology",
-  j0: "Justice",
-  j1: "Order",
-  m1: "Liberty",
-  p0: "Socialism",
-  p1: "Work",
-  s1: "Family",
-  t0: "Revolution"
+  b0: "Ludzkość",
+  b1: "Ojczyzna",
+  c0: "Równość",
+  e0: "Ekologia",
+  j0: "Sprawiedliwość",
+  j1: "Porządek",
+  m1: "Wolność",
+  p0: "Socjalizm",
+  p1: "Praca",
+  s1: "Rodzina",
+  t0: "Rewolucja"
 };
 
 function findFlagColors() {
@@ -656,57 +656,57 @@ function onImageLoaded() {
           key: "c",
           color0: "#a425b6",
           color1: "#34b634",
-          name0: "Constructivism",
-          name1: "Essentialism"
+          name0: "Konstruktywizm",
+          name1: "Esencjalizm"
         },
         {
           key: "j",
           color0: "#14bee1",
           color1: "#e6cc27",
-          name0: "Rehabilitative justice",
-          name1: "Punitive justice"
+          name0: "Sprawiedliwość rehabilitacyjna",
+          name1: "Sprawiedliwość karna"
         },
         {
           key: "s",
           color0: "#850083",
           color1: "#970000",
-          name0: "Progressive",
-          name1: "Conservative"
+          name0: "Progresywizm",
+          name1: "Konserwatyzm"
         },
         {
           key: "b",
           color0: "#3e6ffd",
           color1: "#ff8500",
-          name0: "Internationalism",
-          name1: "Nationalism"
+          name0: "Internacjonalizm",
+          name1: "Nacjonalizm"
         },
         {
           key: "p",
           color0: "#cc0000",
           color1: "#ffb800",
-          name0: "Communism",
-          name1: "Capitalism"
+          name0: "Komunizm",
+          name1: "Kapitalizm"
         },
         {
           key: "m",
           color0: "#269B32",
           color1: "#6608C0",
-          name0: "Regulation",
-          name1: "Laissez-faire"
+          name0: "Regulacjonizm",
+          name1: "Leseferyzm"
         },
         {
           key: "e",
           color0: "#a0e90d",
           color1: "#4deae9",
-          name0: "Ecology",
-          name1: "Production"
+          name0: "Ekologia",
+          name1: "Produkcja"
         },
         {
           key: "t",
           color0: "#eb1a66",
           color1: "#0ee4c8",
-          name0: "Revolution",
-          name1: "Reform"
+          name0: "Rewolucjonizm",
+          name1: "Reformizm"
         }
       ];
 
