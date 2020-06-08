@@ -1,0 +1,10 @@
+#headerDiv {
+  background-color: blueviolet;
+  height: 40px;
+  margin: 0;
+}
+
+p.headerText {
+  color: #FDFDFD;
+  font-size: 20pt;
+}
